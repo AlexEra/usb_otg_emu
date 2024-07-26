@@ -1,0 +1,5 @@
+D:/codding/usb_otg_emu/CMakeFiles/usb_otg_emu.dir
+D:/codding/usb_otg_emu/CMakeFiles/edit_cache.dir
+D:/codding/usb_otg_emu/CMakeFiles/rebuild_cache.dir
+D:/codding/usb_otg_emu/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+D:/codding/usb_otg_emu/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
